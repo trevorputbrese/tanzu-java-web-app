@@ -25,3 +25,4 @@ k8s_resource('tanzu-java-web-app', port_forwards=["8080:8080"],
 
 
 allow_k8s_contexts('tkgs1-spring-tap-iterate-k8s-5')
+allow_k8s_contexts('tmc-azure-eus-tap-cluster-4-admin@tmc-azure-eus-tap-cluster-4')
