@@ -5,7 +5,7 @@ metadata:
   namespace: global
   description: Case Management App
   annotations:
-    backstage.io/kubernetes-label-selector: "app.kubernetes.io/part-of=case-managemnt"
+    backstage.io/kubernetes-label-selector: "app.kubernetes.io/part-of=case-management"
     backstage.io/techdocs-ref: dir:.
   tags:
    - global
