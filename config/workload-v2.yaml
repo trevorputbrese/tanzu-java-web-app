@@ -2,6 +2,7 @@ apiVersion: carto.run/v1alpha1
 kind: Workload
 metadata:
   name: case-management
+  namespace: global
   labels:
     #apps.tanzu.vmware.com/has-tests: "true" 
     apps.tanzu.vmware.com/workload-type: web
